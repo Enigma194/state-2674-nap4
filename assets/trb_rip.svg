@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 160">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b5563"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="120" width="200" height="20" fill="#374151" rx="3"/>
+  <path d="M50 120 V60 q0-40 60-40t60 40v60z" fill="url(#g)" stroke="#9ca3af" stroke-width="2"/>
+  <text x="110" y="88" text-anchor="middle" font-size="36" font-family="ui-monospace, monospace" fill="#e5e7eb">TRB</text>
+  <text x="110" y="110" text-anchor="middle" font-size="18" font-family="ui-monospace, monospace" fill="#e5e7eb">R I P</text>
+</svg>
